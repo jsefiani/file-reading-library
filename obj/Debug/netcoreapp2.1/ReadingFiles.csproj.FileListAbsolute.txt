@@ -1,0 +1,12 @@
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.deps.json
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.runtimeconfig.json
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.runtimeconfig.dev.json
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.dll
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/bin/Debug/netcoreapp2.1/ReadingFiles.pdb
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.csprojAssemblyReference.cache
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.csproj.CoreCompileInputs.cache
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.AssemblyInfoInputs.cache
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.AssemblyInfo.cs
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.dll
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/obj/Debug/netcoreapp2.1/ReadingFiles.pdb
+/Users/jawadsefiani/Web-Projects/C#/ReadingFiles/bin/Debug/netcoreapp2.1/hallo.xml
